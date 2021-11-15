@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NajemWynajemDelux", "src\WebUI\NajemWynajemDelux\NajemWynajemDelux.csproj", "{51368B89-FEFB-48EE-944F-838FE600E526}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D3ACD5D5-7942-4F0F-98E1-7BB2466EAF01}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebUI", "WebUI", "{7715C285-5619-4B7B-A06D-F5186B60B435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51368B89-FEFB-48EE-944F-838FE600E526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51368B89-FEFB-48EE-944F-838FE600E526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51368B89-FEFB-48EE-944F-838FE600E526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51368B89-FEFB-48EE-944F-838FE600E526}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{51368B89-FEFB-48EE-944F-838FE600E526} = {7715C285-5619-4B7B-A06D-F5186B60B435}
+		{7715C285-5619-4B7B-A06D-F5186B60B435} = {D3ACD5D5-7942-4F0F-98E1-7BB2466EAF01}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21BFEDA4-DC20-4CFC-8AB2-47AD0C3E6890}
+	EndGlobalSection
+EndGlobal
